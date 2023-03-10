@@ -16,6 +16,7 @@
     // Usage: 
     if(e.key === 'Escape') {
        console.log(e.key);
+       // do something! ...
     }
 
    });
