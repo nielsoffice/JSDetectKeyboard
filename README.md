@@ -26,3 +26,9 @@
 <br /> Also EventListener "Keyup" 
 <br /> Reference: 
 <br /> https://developer.mozilla.org/en-US/docs/Web/API/Element/keyup_event <br />
+
+
+```JS
+ // JavaScript Event
+ https://developer.mozilla.org/en-US/docs/Web/Events
+```
